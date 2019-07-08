@@ -39,7 +39,7 @@ body, html{
 body{
 	position:relative;
 	overflow:hidden;
-	font-family: Lora, serif;
+	font-family: Roboto, serif;
 	background:#F0F0F0 !important;
 }
 *{
