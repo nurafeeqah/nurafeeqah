@@ -31,7 +31,7 @@
 /*=======================================================
 	General Styles
 =======================================================*/
-@import url(https://fonts.googleapis.com/css?family=Inter:400,500,700,300,100|Lora:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100|Lora:400,400italic,700,700italic);
 body, html{
 	height:100%;
 	width:100%;
@@ -39,7 +39,7 @@ body, html{
 body{
 	position:relative;
 	overflow:hidden;
-	font-family: Inter;
+	font-family: Roboto;
 	background:#F0F0F0 !important;
 }
 *{
@@ -52,7 +52,7 @@ body{
 .btn-custom,
 .menu-items > li > a,
 h1, h2, h3, h4, h5, h6{
-	font-family: 'Inter', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 .color{
 	color:#00A892;
